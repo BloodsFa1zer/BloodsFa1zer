@@ -3,8 +3,7 @@
 
 - #### 🔭 I’m currently looking for a job - Golang Developer  
   
-
-![](https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Photo.jpg)  
+ 
 <a href="https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Misha_Shevniuk_GO_Developer.pdf" target="_blank">
 <img src="https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Photo.jpg" alt="CV" style="margin-bottom: 5px;" />
 </a>  
