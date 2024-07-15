@@ -5,8 +5,9 @@
   <h1 align="center">
     ABOUT ME
   </h1>
-  My qualifications include hands-on experience with Golang, specifically utilizing Echo, PostgreSQL, Postman, and Docker. I have successfully developed two web applications for user management systems, employing both RestAPI and gRPC designs. Additionally, I established an administrative system for a board game shop. My experience extends to security based on JWT and Cookies Authorization, as well as implementing a caching layer using Redis to store frequently accessed data in-memory. Additionally, I am well-versed in developing robust architectures for applications, including the implementation of a DAO layer.
+I am a Golang Developer with experience in Echo, PostgreSQL, Postman, and Docker. I have developed user management web applications using REST API and gRPC designs and created an administrative system for a board game shop. My expertise includes JWT and Cookies Authorization, and implementing Redis caching layers.
 
+Currently, I contribute to a language learning platform, using REST API (Gin), PostgreSQL, and Docker. My Software Engineering degree from Taras Shevchenko National University of Kyiv, along with practical skills in NoSQL and Redis, supports my backend development focus. I am committed to clean code, efficient systems architecture, and have hands-on experience with CI/CD, unit testing, and microservices. I am seeking IT intern or junior developer roles to expand my practical exposure and contribute to meaningful projects.
 
  
 <a href="https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Misha_Shevniuk_GO_Developer.pdf" target="_blank">
