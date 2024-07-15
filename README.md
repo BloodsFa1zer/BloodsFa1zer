@@ -87,7 +87,7 @@ Project helps tudors and students find each other. By creating profile and speak
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://t.me/BloodsFa1zer" target="_blank">
-<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 7px;" />
 </a>  
 </div>  
   
