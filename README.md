@@ -12,16 +12,16 @@
 - #### Here is my main projects 
   
 
-  -- [RESTFUL-API](https://github.com/BloodsFa1zer/restFUL-api)  
+   [RESTFUL-API](https://github.com/BloodsFa1zer/restFUL-api)  
   
 
-  -- [gRPC](https://github.com/BloodsFa1zer/grpc-crud)  
+   [gRPC](https://github.com/BloodsFa1zer/grpc-crud)  
   
 
-  -- [Telegram Bot](https://github.com/BloodsFa1zer/WeatherSubscriptionBot)  
+   [Telegram Bot](https://github.com/BloodsFa1zer/WeatherSubscriptionBot)  
   
 
-  -- [Admin System](https://github.com/BloodsFa1zer/adminSystem)  
+   [Admin System](https://github.com/BloodsFa1zer/adminSystem)  
   
 
 - #### Here is a team project, I'm working on last months:
