@@ -5,7 +5,9 @@
   
 
 ![](https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Photo.jpg)  
-![CV](https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Misha_Shevniuk_GO_Developer.pdf)
+<a href="https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Misha_Shevniuk_GO_Developer.pdf" target="_blank">
+<img src="https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Photo.jpg" alt="CV" style="margin-bottom: 5px;" />
+</a>  
   
 
 - #### Here is my main projects -   
