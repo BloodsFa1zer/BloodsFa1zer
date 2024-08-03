@@ -13,10 +13,12 @@ Currently, I contribute to a language learning platform, using REST API (Gin), P
 <a href="https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Misha_Shevniuk_GO_Developer.pdf" target="_blank">
 <img src="https://github.com/BloodsFa1zer/BloodsFa1zer/blob/main/CV_Misha_Shevniuk_GO_Developer_page-0001.jpg" alt="CV" style="margin-bottom: 5px;" />
 </a>  
-  
+
+- #### Here is a project, I'm working on last months in the DevCom:
+[Tudor-Match](https://github.com/BloodsFa1zer/tudor) - 
+Project helps tudors and students find each other. By creating profile and speaking clubs tudors are able to find new students for their speaking clubs, while students can search for a specific speaking club based on their needs.    
 
 - #### Here is my main projects 
-  
 
     - [RESTFUL-API](https://github.com/BloodsFa1zer/restFUL-api)  
   
@@ -28,11 +30,6 @@ Currently, I contribute to a language learning platform, using REST API (Gin), P
   
 
     - [Admin System](https://github.com/BloodsFa1zer/adminSystem)  
-  
-
-- #### Here is a team project, I'm working on last months:
-[Tudor-Match](https://github.com/BloodsFa1zer/tudor) - 
-Project helps tudors and students find each other. By creating profile and speaking clubs tudors are able to find new students for their speaking clubs, while students can search for a specific speaking club based on their needs.  
   
 
 ### <div align="center">My Tech-Stack is:
