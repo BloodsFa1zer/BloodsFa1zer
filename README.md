@@ -29,9 +29,6 @@ Project helps tudors and students find each other. By creating profile and speak
     - [Telegram Bot](https://github.com/BloodsFa1zer/WeatherSubscriptionBot)  
   
 
-    - [Admin System](https://github.com/BloodsFa1zer/adminSystem)  
-  
-
 ### <div align="center">My Tech-Stack is:
 </div>  
   
